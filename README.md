@@ -47,7 +47,7 @@ project-root/
 
 ## 🛠️ How to Set Up
 
-1. **UnZip the file:**
+1. **clone repo : https://github.com/khnanayakkara/APITestKarate **
 
 2. **Install dependencies:**
 
