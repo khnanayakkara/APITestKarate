@@ -41,6 +41,8 @@ project-root/
 - The Karate test runner uses JUnit5.
 - Use Maven for dependency and build management.
 
+Note: The v2/pet/findByTags endpoint is deprecated; hence, the 'Find Pets by Tags' test fails.
+
 ---
 
 ---
